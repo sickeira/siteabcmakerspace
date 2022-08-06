@@ -13,10 +13,13 @@ Em 20 de dezembro de 2014 ocorreu o primeiro [Garoa Kumite](https://garoa.net.br
 ## Campus Party 2015 - #cpbr8
 [Campus Party](https://brasil.campus-party.org/) de São Paulo
 [ABC Makerspace](https://abcmakerspace.com.br/) na CPBr8, no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), 3 a 8 de fevereiro de 2015.
+A atividade realizada foi na quarta-feira, 04/02 das 14h as 15h sobre Games antigos (MSX) com o Emerson.
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html).
 
 [Álbum Facebook ABC Makerspace com 7 fotos](https://www.facebook.com/media/set/?set=a.1546796152254399&type=3).
+
+[Dumont Hackerspace na Campus Party 2015](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2015)
 ________________________________________
 ## Arduino Day Santo André 2015
 Em 28/03/15 ocorreu a palestra sobre o shield PSG(Programable Sound Generator) no Arduino Day Santo André 2015, na [UFABC - Universidade Federal do ABC](https://www.ufabc.edu.br/), com [ABC Makerspace](https://abcmakerspace.com.br/) e IEEE RAS UFABC.
