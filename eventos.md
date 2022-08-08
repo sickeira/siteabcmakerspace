@@ -110,6 +110,8 @@ ________________________________________
 Na quinta 29 de junho de 2017 o [ABC Makerspace](https://abcmakerspace.com.br/) e o GERSE foram convidados para um churrasco no [Laboratório Hacker de Campinas - LHC](https://lhc.net.br).
 
 [Álbum Facebook ABC Makerspace com 12 fotos](https://www.facebook.com/media/set/?set=a.1900666156867395&type=3).
+
+[Álbum Facebook LHC - Oficina de IoT #18](https://www.facebook.com/media/set/?set=a.1392974484150950&type=3).
 ________________________________________
 ## Montagem do WikiLab #WikiLabABC
 No dia 12 de setembro de 2017 foi o primeiro dia de montagem das peças do [WikiLab](https://www.facebook.com/wikilab.abc) na [UFABC](https://www.ufabc.edu.br/) Campus de São Bernardo. 
@@ -125,6 +127,7 @@ Mutirão do dia 23 de setembro de 2017, para a montagem do teto do [WikiLab](htt
 ________________________________________
 ## Inauguração do WikiLab
 Inauguração do WikiLab em 10 de novembro de 2017, e como ninguém é de ferro, fomos comemorar depois no boteco do Lombardi.
+
 [álbum facebook Siqueira com 27 fotos](https://www.facebook.com/media/set/?set=a.1592726694139925&type=3)
 ________________________________________
 ## RoadSec SP 2017
@@ -147,19 +150,25 @@ Workshop na Campus Party 2018 #cpbr11 , 3 de fevereiro, com o equipamento de som
 
 [Álbum Facebook  com 19 fotos](https://www.facebook.com/media/set/?set=a.2155884678012207&type=3).
 
-Primeiras 24 horas na #cpbr11 , da terça as 22h as 22h da quarta (30 e 31/01) [álbum facebook Siqueira com 11 fotos](https://www.facebook.com/media/set/?set=a.1679416112137649&type=3).
+Primeiras 24 horas na #cpbr11 , da terça as 22h as 22h da quarta (30 e 31/01) 
+
+[álbum facebook Siqueira com 11 fotos](https://www.facebook.com/media/set/?set=a.1679416112137649&type=3).
 
 
 Dia 2 de fevereiro de 2018 na #cpbr11, a sexta feira na Campus Party com o pessoal do ABC Makerspace e do [Papo de SysAdmin](https://papodesysadmin.org/)
+
 [álbum facebook Siqueira com 71 fotos](https://www.facebook.com/media/set/?set=a.1681788755233718&type=3).
 
 
 #cpbr11 Festa OSI / Everaldo
 Festa da [O.S.I.](https://opensource.org/) de 20 anos, e de quebra do Canuto de 40, na área VIP da #cpbr11 em 2 fevereiro de 2018.
+
 [álbum facebook Siqueira com 11 fotos](https://www.facebook.com/media/set/?set=a.1682631278482799&type=3)
 
 Sábado na #cpbr11, 
-Último dia da Campus Party 2018, encontrando muitas pessoas e diversas boas conversas , aprendendo muito e divulgando o ABC Makerspace e o WikiLab. [álbum facebook Siqueira com 32 fotos](https://www.facebook.com/media/set/?set=a.1683619001717360&type=3)
+Último dia da Campus Party 2018, encontrando muitas pessoas e diversas boas conversas , aprendendo muito e divulgando o ABC Makerspace e o WikiLab.
+
+[álbum facebook Siqueira com 32 fotos](https://www.facebook.com/media/set/?set=a.1683619001717360&type=3)
 ________________________________________
 ## FLISoL Santo André 2018
 
@@ -203,6 +212,8 @@ Primeiro evento que o ABC Makerspace participa depois de mais de 2 anos. Foi mui
 [Álbum Facebook com 46 fotos](https://www.facebook.com/media/set/?set=a.3145692585698073&type=3).
 
 [Instagram ABC Makerspace](https://www.instagram.com/abcmakerspace/) [1](https://www.instagram.com/p/Cf1wWMxucuB/)//[2](https://www.instagram.com/p/Cf4PXjvuLie/)//[3](https://www.instagram.com/p/Cf7Er9nuo9a/)//[4](https://www.instagram.com/p/Cf9o5tdg0OY/)
+
+[RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
 ________________________________________
 
 
