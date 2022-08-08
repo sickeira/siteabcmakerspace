@@ -59,7 +59,9 @@ ________________________________________
 [Evento facebook Esquenta Arduino Day 2018 no WikiLab 05/04/2018](https://www.facebook.com/events/443825582715305/)
 ________________________________________
 ## WikiLab Open Night #01 - Criando seu Blog e Wiki
-Nesta noite o Canuto apresentou como criar o blog e wiki do Wikilab.
+Nesta noite o Canuto apresentou como criar o blog e wiki do Wikilab. A TV foi gentilmente emprestada pelo Linuxmen do [Papo de SysAdmin](https://papodesysadmin.org/).
+
+[Foto 1](https://www.facebook.com/abcmakerspace/photos/a.1472891612978187/2038558896411453/)
 
 [Evento facebook WikiLab Open Night #01 - Criando seu Blog e Wiki](https://www.facebook.com/events/1877133552350543/)
 ________________________________________
