@@ -50,9 +50,13 @@ Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
 ________________________________________
 ## Jornada das Engenharias UNIFRAN
 Em 11/09/2015 Palestra na Jornada das Engenharias,evento da [UNIFRAN - Universidade de Franca](https://www.unifran.edu.br/).
+
+[Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html).
 ________________________________________
 ## VI Semana da Computação UFSCar
 Em 23 e 24 de setembro de 2015 Palestra e aulas na [VI Semana da Computação](http://secomp.ufscar.br/), na [UFSCar - Universidade Federal de São Carlos](https://www.ufscar.br/).
+
+[Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html).
 ________________________________________
 
 # 2016
