@@ -164,10 +164,12 @@ ________________________________________
 ## FLISoL Santo André 2018
 
 A [Flisol Santo André 2018](https://flisol.info/FLISOL2018/Brasil/SantoAndre) foi realizada no dia 28 de abril de 2018, na UFABC Santo André, e quem ficou ficou até o final participou de vários sorteios.
-[Álbum Facebook](https://www.facebook.com/media/set/?set=a.2035324956734847&type=3) com 78 fotos.
+
+[Álbum Facebook com 78 fotos.](https://www.facebook.com/media/set/?set=a.2035324956734847&type=3)
 ________________________________________
 ## RoadSec SP 2018
 Desta vez o workshop na [RoadSec](https://www.roadsec.com.br/) SP realizada em 10/11/2018 na [Audio](https://audiosp.com.br/), foi a apresentação de Esteganografia com Steghide na área de comunidades, realizado por Siqueira com a ajuda do Roger Dantas e as fotos da Mel Soares.
+
 [Álbum Facebook Siqueira com 69 fotos](https://www.facebook.com/media/set/?set=a.2092762630802993&type=3).
 
 [Banner de divulgação 2018](https://www.instagram.com/p/BppSC6EHDoX/).
@@ -177,6 +179,7 @@ ________________________________________
 ## Arduino Day SP 2018
 
 No sábado, dia 12 de maio de 2018, aconteceu o Arduino Day de São Paulo, na Praça das Artes, e o [ABC Makerspace](https://abcmakerspace.com.br/) esteve presente, junto com o pessoal do GERSE.
+
 [Álbum Facebook](https://www.facebook.com/media/set/?set=a.2040208966246446&type=3) com 17 fotos.
 ________________________________________
 
