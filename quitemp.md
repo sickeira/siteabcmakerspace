@@ -33,3 +33,10 @@ Além da entrevista do Emerson William Moura para a May Takata, continuamos a fo
 [Álbum Facebook ABC Makerspace com 16 fotos](https://www.facebook.com/media/set/?set=a.1749949701939042&type=3).
 ________________________________________
 
+Nos acompanhem pelas midias sociais:
+
+[Facebook](https://www.facebook.com/abcmakerspace)  |
+[Twitter](https://twitter.com/abcmakerspace)  |
+[Instagram](https://www.instagram.com/abcmakerspace/)  |
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
+[GitHub](https://github.com/ABCMakerspace)  |
