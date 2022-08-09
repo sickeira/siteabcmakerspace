@@ -141,3 +141,10 @@ ________________________________________
 [Evento facebook CodeNight - Codificando um software livre real com Python + Qt](https://www.facebook.com/events/360609338131685/369705307222088?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref_notif_type%22%3Anull%7D)
 ________________________________________
 
+<p>
+[Facebook](https://www.facebook.com/abcmakerspace)  |
+[Twitter](https://twitter.com/abcmakerspace)  |
+[Instagram](https://www.instagram.com/abcmakerspace/)  |
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
+[GitHub](https://github.com/ABCMakerspace)  |
+</p>
