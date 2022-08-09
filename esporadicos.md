@@ -140,3 +140,8 @@ Nos reunimos pelo chat do Telegram, que fornece opção de compartilhar tela. O 
 [Foto facebook](https://www.facebook.com/abcmakerspace/photos/a.1470873023180046/3147243785542953)
 
 
+[Facebook](https://www.facebook.com/abcmakerspace)  |
+[Twitter](https://twitter.com/abcmakerspace)  |
+[Instagram](https://www.instagram.com/abcmakerspace/)  |
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
+[GitHub](https://github.com/ABCMakerspace)  |
