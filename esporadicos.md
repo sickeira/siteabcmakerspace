@@ -138,7 +138,7 @@ ________________________________________
 Nos reunimos pelo chat do Telegram, que fornece opção de compartilhar tela. O Cesar explicou como fez o site do [ABC Makerspace](https://abcmakerspace.com.br/) e como poderiamos dar prosseguimento com atualizações.
 
 [Foto facebook](https://www.facebook.com/abcmakerspace/photos/a.1470873023180046/3147243785542953)
-
+________________________________________
 
 [Facebook](https://www.facebook.com/abcmakerspace)  |
 [Twitter](https://twitter.com/abcmakerspace)  |
