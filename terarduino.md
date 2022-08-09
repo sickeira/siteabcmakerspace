@@ -110,3 +110,10 @@ ________________________________________
 [Evento facebook Terça do Arduino 17/12/2019](https://www.facebook.com/events/609018773239997/)
 ________________________________________
 
+Nos acompanhem pelas midias sociais:
+
+[Facebook](https://www.facebook.com/abcmakerspace)  |
+[Twitter](https://twitter.com/abcmakerspace)  |
+[Instagram](https://www.instagram.com/abcmakerspace/)  |
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
+[GitHub](https://github.com/ABCMakerspace)  |
