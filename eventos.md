@@ -217,7 +217,7 @@ Primeiro evento que o ABC Makerspace participa depois de mais de 2 anos. Foi mui
 ________________________________________
 # Eventos futuros que estamos confirmados
 
-[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos da bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
+[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
 
 
 
