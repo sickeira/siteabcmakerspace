@@ -215,8 +215,9 @@ Primeiro evento que o ABC Makerspace participa depois de mais de 2 anos. Foi mui
 
 [RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
 ________________________________________
+# Eventos futuros que estamos confirmados
 
-
+[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos da bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
 
 
 
