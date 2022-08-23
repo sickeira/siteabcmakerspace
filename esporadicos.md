@@ -1,5 +1,5 @@
 # Encontros Esporadicos
-Histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente série de encontros por um curto período de tempo, como as férias escolares.
+Histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente são uma série de encontros por um curto período de tempo, como as férias escolares, encontros únicos tematicos, ou que preparação para algum evento externo.
 
 # 2015
 ## Encontro Entusiastas MSX
@@ -13,11 +13,10 @@ No dia 02/05/2015 foi realizado o Esquenta do 7º Encontro de entusiastas Apple 
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html)
 ________________________________________
-## Esquenta Intel IoT RoadShow 2015
+## Esquentas Intel IoT RoadShow 2015
 Nos dias 16 e 18 de junho de 2015 foi realizado o esquenta para o Intel IoT Roadshow 2015.
-________________________________________
-## Esquenta Intel IoT Roadshow
-Entre 03 e 05 de novembro de 2015 Esquenta para Intel IoT Roadshow, no ABC Makerspace, com [IEEE RAS UFABC](https://www.facebook.com/IEEERASUFABC/).
+
+Entre 03 e 05 de novembro de 2015 Esquenta para Intel IoT Roadshow, com [IEEE RAS UFABC](https://www.facebook.com/IEEERASUFABC/).
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html)
 ________________________________________
@@ -25,7 +24,8 @@ ________________________________________
 
 # 2016
 ## ChurrasMaker
-1º ChurrasMaker foi em 05/06/2016 para arrecadação de fundos pro ABC Makerspace.
+1º ChurrasMaker foi em 05/06/2016 para arrecadação de fundos pro [ABC Makerspace](https://abcmakerspace.com.br/).
+
 [Álbum Facebook com 20 fotos](https://www.facebook.com/media/set/?set=a.1721635614770451&type=3).
 ________________________________________
 ## BitCoin para novatos
@@ -35,6 +35,7 @@ No dia 09/06/2016 o Marcos Henrique da FoxBit fez uma apresentação explicando 
 ________________________________________
 ## Curso de Linux
 Curso de Linux durante o período de férias escolares, atividade de sexta-feira em julho de 2016.
+
 [Álbum Facebook com 14 fotos](https://www.facebook.com/media/set/?set=a.1746053112328701&type=3).
 ________________________________________
 ## Domingo de Organização 14/08/2016
@@ -51,15 +52,18 @@ ________________________________________
 
 # 2017
 ## Convite Wikilab
-Reunião do convite para ajudarmos no projeto do Wikilab em 30 de março de 2017 [Foto](https://www.facebook.com/abcmakerspace/photos/1856626404604704) 
+Reunião do convite para ajudarmos no projeto do Wikilab em 30 de março de 2017 
+
+[Foto](https://www.facebook.com/abcmakerspace/photos/1856626404604704) 
 ________________________________________
 
 # 2018
 ## Esquenta Arduino Day 2018 no WikiLab 05/04/2018
+
 [Evento facebook Esquenta Arduino Day 2018 no WikiLab 05/04/2018](https://www.facebook.com/events/443825582715305/)
 ________________________________________
 ## WikiLab Open Night #01 - Criando seu Blog e Wiki
-Nesta noite o Canuto apresentou como criar o blog e wiki do Wikilab. A TV foi gentilmente emprestada pelo Linuxmen do [Papo de SysAdmin](https://papodesysadmin.org/).
+Nesta noite o Canuto apresentou como criar o blog e wiki do [Wikilab](https://www.facebook.com/wikilab.abc). A TV foi gentilmente emprestada pelo Linuxmen do [Papo de SysAdmin](https://papodesysadmin.org/).
 
 [Foto 1](https://www.facebook.com/abcmakerspace/photos/a.1472891612978187/2038558896411453/)
 
@@ -68,6 +72,7 @@ ________________________________________
 ## Homebrew Wikilab
 ### 1º Homebrew Wikilab 04/07/2018
 Primeiro encontro da Noite do Homebrew Computer no [Wikilab](https://www.facebook.com/wikilab.abc/), durante as noites de quarta de julho, esta foi dia 4 de julho de 2018.
+
 [Álbum Facebook com 11 fotos](https://www.facebook.com/media/set/?set=a.2075582906042385&type=3).
 ________________________________________
 ### 2º Homebrew Wikilab 11/07/2018
@@ -87,16 +92,18 @@ Neste 4º encontro do Homebrew no [Wikilab](https://www.facebook.com/wikilab.abc
 ________________________________________
 ## Jon "Maddog" Hall no Wikilab
 
-No domingo 16/09/18, tivemos o prazer de receber o Jon "Maddog" Hall no WikiLab, como foi de última hora, não tivemos tempo para divulgar. Nos mostrou as placas em que estava trabalhando da [Caninosloucos](https://caninosloucos.org/pt/), entre elas a Labrador e a flea, além de nos ensinar muito com sua experiência.
+No domingo 16/09/18, tivemos o prazer de receber o [Jon "Maddog" Hall](https://pt.wikipedia.org/wiki/Jon_Hall) no [Wikilab](https://www.facebook.com/wikilab.abc/), como foi de última hora, não tivemos tempo para divulgar. Nos mostrou as placas em que estava trabalhando da [Caninosloucos](https://caninosloucos.org/pt/), entre elas a Labrador e a flea, além de nos ensinar muito com sua experiência.
+
 [Álbum Facebook ABC Makerspace com 7 fotos](https://www.facebook.com/media/set/?set=a.2140085819592093&type=3).
 ________________________________________
 ## Oficinas de Solda
 ### 1ª Oficina de Solda Wikilab 28/07/2018
 Como foi verificado no Homebrew Wikilab que a maioria do pessoal tinha dificuldades com solda, realizamos a 1ª Oficina de Solda Wikilab no sábado dia 28/07/2018, com o circuito regulador de clock, que usaremos no PC de 8 Bits do Homebrew Wikilab.
+
 [Álbum Facebook ABC Makerspace com 32 fotos](https://www.facebook.com/media/set/?set=a.2100658756868133&type=3).
 ________________________________________
 ### 2ª Oficina de Solda no WikiLab 04/08/2018
-No sábado 04/08/2018 foi mais uma aula básica de eletrônica sobre os componentes usados no circuito gerador de clock, no WikiLab.
+No sábado 04/08/2018 foi mais uma aula básica de eletrônica sobre os componentes usados no circuito gerador de clock, no [Wikilab](https://www.facebook.com/wikilab.abc/).
 
 [Álbum Facebook ABC Makerspace com 17 fotos](https://www.facebook.com/media/set/?set=a.2107841232816552&type=3).
 ________________________________________
@@ -104,10 +111,13 @@ ________________________________________
 # 2019
 ## Demonstração biblioteca 04/07/2019
 Demonstração da biblioteca de menus para arduino no Wikilab em 4 de julho de 2019.
+
 [Álbum Facebook com 21 fotos](https://www.facebook.com/media/set/?set=a.2311530405780966&type=3).
 ________________________________________
 ## AfroWikiLab 19/11/2019
 Primeira atividade colaborativa com a AfroEscola - Laboratório Urbano de Santo André e o [Carlos Rogério Amorim](https://www.facebook.com/carlosrogerio.amorim) levou jogos de tabuleiro africanos, comida e bebida tipica africana para todos os presentes.
+
+[Evento Facebook](https://www.facebook.com/events/2423355964443767/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
 ________________________________________
 
 # 2020
@@ -121,10 +131,12 @@ ________________________________________
 ## Quarta da Tempestade Cerebral 13/01/2021
 O pretexto é conversar sobre roteadores, mas se conhece o ABC Makerspace sabe não fica só nisso ; p
 A localização foi só pra definir o fuso horário, a conversa foi via Jitsi.
+
 [Evento facebook Conversa online](https://www.facebook.com/events/215531296872106/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
 ________________________________________
 ## Quarta da Tempestade Cerebral 03/03/2021
 Conversa online pelo Discord sobre tecnologia em geral.
+
 [Evento facebook Conversa online](https://www.facebook.com/events/922285061908640/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
 ________________________________________
 ## Conhecendo o Haiku OS 09/06/2021
