@@ -22,7 +22,7 @@ A atividade realizada foi na quarta-feira, 04/02 das 14h as 15h sobre Games anti
 [Dumont Hackerspace na Campus Party 2015](https://garoa.net.br/wiki/Dumont_Hackerspace_na_Campus_Party_2015)
 ________________________________________
 ## Arduino Day Santo André 2015
-Em 28/03/15 ocorreu a palestra sobre o shield PSG(Programable Sound Generator) no Arduino Day Santo André 2015, na [UFABC - Universidade Federal do ABC](https://www.ufabc.edu.br/), com [ABC Makerspace](https://abcmakerspace.com.br/) e IEEE RAS UFABC.
+Em 28/03/15 ocorreu a palestra sobre o shield PSG (Programable Sound Generator) no Arduino Day Santo André 2015, na [UFABC - Universidade Federal do ABC](https://www.ufabc.edu.br/), com [ABC Makerspace](https://abcmakerspace.com.br/) e IEEE RAS UFABC.
 
 [Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html)
 ________________________________________
@@ -38,6 +38,7 @@ ________________________________________
 ## #TheDevConf 2015
 De 21 a 25/07/15 tivemos uma mesa para expor o [ABC Makerspace](https://abcmakerspace.com.br/) no [The Developer's Conference 2015](https://thedevconf.com/tdc/2015/saopaulo/trilhas), na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
 Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
+
 [Foto 1 -21/07 Terça- Placas](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940859625974416/) //[Foto 2 -21/07 Terça - Mesa](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940846755975703/)
 
 [Foto 3 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940878949305817/)//[Foto 4 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940879055972473/).
@@ -131,7 +132,7 @@ Inauguração do WikiLab em 10 de novembro de 2017, e como ninguém é de ferro,
 [álbum facebook Siqueira com 27 fotos](https://www.facebook.com/media/set/?set=a.1592726694139925&type=3)
 ________________________________________
 ## RoadSec SP 2017
-A [RoadSec](https://www.roadsec.com.br/) 2017 foi realizada em 11/11/17 na [Audio](https://audiosp.com.br/) e o ABC Makerspace e o WikiLab foram no maior evento hacker da América Latina. Na mesa além de conversarmos sobre Segurança em IoT aproveitamos para divulgar o recém inaugurado Wikilab.
+A [RoadSec](https://www.roadsec.com.br/) 2017 foi realizada em 11/11/17 na [Audio](https://audiosp.com.br/) e o [ABC Makerspace](https://abcmakerspace.com.br/) e o [WikiLab](https://www.facebook.com/wikilab.abc) foram no maior evento hacker da América Latina. Na mesa além de conversarmos sobre Segurança em IoT aproveitamos para divulgar o recém inaugurado [WikiLab](https://www.facebook.com/wikilab.abc).
 
 [Banner de divulgação](https://www.facebook.com/abcmakerspace/photos/1946745792259431/).
 
@@ -166,7 +167,7 @@ Festa da [O.S.I.](https://opensource.org/) de 20 anos, e de quebra do Canuto de 
 [álbum facebook Siqueira com 11 fotos](https://www.facebook.com/media/set/?set=a.1682631278482799&type=3)
 
 Sábado na #cpbr11, 
-Último dia da Campus Party 2018, encontrando muitas pessoas e diversas boas conversas , aprendendo muito e divulgando o ABC Makerspace e o WikiLab.
+Último dia da Campus Party 2018, encontrando muitas pessoas e diversas boas conversas , aprendendo muito e divulgando o [ABC Makerspace](https://abcmakerspace.com.br/) e o [WikiLab](https://www.facebook.com/wikilab.abc).
 
 [álbum facebook Siqueira com 32 fotos](https://www.facebook.com/media/set/?set=a.1683619001717360&type=3)
 ________________________________________
@@ -189,7 +190,7 @@ ________________________________________
 
 No sábado, dia 12 de maio de 2018, aconteceu o Arduino Day de São Paulo, na Praça das Artes, e o [ABC Makerspace](https://abcmakerspace.com.br/) esteve presente, junto com o pessoal do GERSE.
 
-[Álbum Facebook](https://www.facebook.com/media/set/?set=a.2040208966246446&type=3) com 17 fotos.
+[Álbum Facebook com 17 fotos](https://www.facebook.com/media/set/?set=a.2040208966246446&type=3).
 ________________________________________
 
 # 2019
@@ -207,7 +208,7 @@ ________________________________________
 
 # 2022
 ## RoadSec SP 2022
-Primeiro evento que o ABC Makerspace participa depois de mais de 2 anos. Foi muito rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demontrar alguns scripts em ação.
+Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) participa depois de mais de 2 anos. Foi muito bom rever o pessoal. A [RoadSec](https://www.roadsec.com.br/) SP 2022 aconteceu em 09/07/2022, desta vez na [Arca](https://arcaspaces.com/). Na nossa atividade o Siqueira falou sobre o ATtiny85(Digispark) e seu uso em segurança da informação, além de demontrar alguns scripts em ação.
 
 [Álbum Facebook com 46 fotos](https://www.facebook.com/media/set/?set=a.3145692585698073&type=3).
 
@@ -217,8 +218,9 @@ Primeiro evento que o ABC Makerspace participa depois de mais de 2 anos. Foi mui
 ________________________________________
 # Eventos futuros que estamos confirmados
 
-[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/).
+[Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
 
+Nos acompanhe pelas redes sociais para saaber mais.
 
 
 [Facebook](https://www.facebook.com/abcmakerspace)  |
