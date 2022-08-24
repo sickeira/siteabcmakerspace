@@ -1,5 +1,7 @@
+[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+
 # Encontros
-Para facilitar a pesquisa dos históricos vamos dividir os encontros em:
+Para facilitar a pesquisa dos históricos de nossos encontros registrados, vamos dividir os encontros em:
 
 ## Esporádicos
 Nos encontros [Esporádicos](esporadicos) deixamos o histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente série de encontros por um curto período de tempo, como as férias escolares.
