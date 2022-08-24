@@ -1,4 +1,5 @@
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+________________________________________
 
 # Eventos
 
@@ -8,7 +9,7 @@ Alguns dos eventos externos que o [ABC Makerspace](https://abcmakerspace.com.br/
 Em 20 de dezembro de 2014 ocorreu o primeiro [Garoa Kumite](https://garoa.net.br/wiki/Garoa_Kumite), torneio de robôs do [Garoa Hacker Clube](https://garoa.net.br) com participação do  Maradona, o cheirador de linhas. Foi o robô seguidor de linhas feito no [ABC Makerspace](https://abcmakerspace.com.br/).
 
 [Álbum Facebook ABC Makerspace com 11 fotos](https://www.facebook.com/media/set/?set=a.1611848649082482&type=3).
-
+________________________________________
 
 
 # 2015
@@ -223,8 +224,7 @@ ________________________________________
 [Campus Party SP](https://brasil.campus-party.org/) #cpbr14 será de 11 a 15 de novembro de 2022, participaremos com algumas atividades na bancada do [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/). 
 
 Nos acompanhe pelas redes sociais para saaber mais.
-
-
+________________________________________
 [Facebook](https://www.facebook.com/abcmakerspace)  |
 [Twitter](https://twitter.com/abcmakerspace)  |
 [Instagram](https://www.instagram.com/abcmakerspace/)  |
