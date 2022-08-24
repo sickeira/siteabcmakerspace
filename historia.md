@@ -1,5 +1,5 @@
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
-
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+_______________________________________________
 # História do ABC Makerspace
 
 # A ideia
