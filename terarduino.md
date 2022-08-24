@@ -1,4 +1,5 @@
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+________________________________________
 
 # Terça do Arduino
 Uma noite dedicada ao Arduino. Venha mostrar seus projetos, aprender, ensinar, conversar, compartilhar conhecimento.
@@ -20,20 +21,25 @@ ________________________________________
 # 2016
 ## Terça do Arduino 12/01/2016
 Iniciando oficialmente as atividades de 2016
+
 [Álbum Facebook ABC Makerspace com 4 fotos](https://www.facebook.com/media/set/?set=a.1664100733857273&type=3).
 ________________________________________
 ## Terça do Arduino 01/02/2016
 Arduino? Que nada... Foi aula de Python!!!
+
 [Álbum Facebook ABC Makerspace com 9 fotos](https://www.facebook.com/media/set/?set=a.1671132993154047&type=3).
 ________________________________________
 ## Terça do Arduino 26/04/2016
+
 [Álbum Facebook ABC Makerspace com 10 fotos](https://www.facebook.com/media/set/?set=a.1703300856603927&type=3).
 ________________________________________
 ## Terça do Arduino 28/06/2016
+
 [Álbum Facebook ABC Makerspace com 4 fotos](https://www.facebook.com/media/set/?set=a.1728586347408711&type=3).
 ________________________________________
 ## Terça do Arduino 12/07/2016
-Algumas das atividades do dia a trava do portão e aulas de eletrônica
+
+Algumas das atividades do dia foram a trava do portão e aulas de eletrônica
 
 [Álbum Facebook com 9 fotos](https://www.facebook.com/media/set/?set=a.1734079200192759&type=3).
 ________________________________________
@@ -48,6 +54,7 @@ Apesar do frio, tivemos alguns "guerreiros" no ABC Makerspace, continuando o pro
 [Álbum Facebook com 12 fotos](https://www.facebook.com/media/set/?set=a.1742975392636473&type=3).
 ________________________________________
 ## Terça do Arduino 09/08/2016
+
 [Álbum Facebook com 10 fotos](https://www.facebook.com/media/set/?set=a.1745906499010029&type=3).
 ________________________________________
 ## Terça do Arduino 16/08/2016
