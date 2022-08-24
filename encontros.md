@@ -1,5 +1,5 @@
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
-
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+______________________________________________
 # Encontros
 Para facilitar a pesquisa dos históricos de nossos encontros registrados, vamos dividir os encontros em:
 
@@ -10,7 +10,7 @@ E nos encontros fixos deixaremos o histórico dos que aconteceram com alguma "pe
 # 2022
 Esperamos retornar em breve com essas atividades, assim que liberado o acesso ao [Wikilab](https://www.facebook.com/wikilab.abc/) ou conseguirmos outro local.
 
-
+_________________________________________________
 [Facebook](https://www.facebook.com/abcmakerspace)  |
 [Twitter](https://twitter.com/abcmakerspace)  |
 [Instagram](https://www.instagram.com/abcmakerspace/)  |
