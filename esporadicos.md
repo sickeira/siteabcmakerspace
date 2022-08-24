@@ -1,3 +1,5 @@
+[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+
 # Encontros Esporadicos
 Histórico de alguns de nossos encontros não fixos, nas antigas sedes de Santo André, no [Wikilab](https://www.facebook.com/wikilab.abc/) e inclusive alguns online durante a pandemia. Normalmente são uma série de encontros por um curto período de tempo, como as férias escolares, encontros únicos tematicos, ou que preparação para algum evento externo.
 

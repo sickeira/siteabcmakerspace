@@ -1,3 +1,5 @@
+[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+
 # Eventos
 
 Alguns dos eventos externos que o [ABC Makerspace](https://abcmakerspace.com.br/) participou e lembrou de registrar.
