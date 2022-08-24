@@ -5,7 +5,7 @@ description = "Artigos, dicas e tutoriais sobre programação de computadores, d
 
 +++
 
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+[Home](index) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
 ___________________________________
 
 
