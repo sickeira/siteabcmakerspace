@@ -1,4 +1,5 @@
-[Home](index) | [Encontros](encontros) | [Eventos](eventos) | [História](historia)
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+_______________________________________________
 
 # Quinta da Tempestade Cerebral
 Uma noite para discutir projetos, ideias, aprender e ensinar no ABC Makerspace. Juntos realizamos mais!
