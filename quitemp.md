@@ -11,12 +11,14 @@ Quinta da Tempestade Cerebral na segunda sede em 22/10/2015
 ________________________________________
 # 2016
 Quinta da Tempestade Cerebral 30/06/2016
+
 Visita Heisenberg
 
 [Álbum Facebook ABC Makerspace com 3 fotos](https://www.facebook.com/media/set/?set=a.1729882973945715&type=3).
 ________________________________________
 
 Quinta da Tempestade Cerebral 21/07/2016
+
 Hackeando bancos e encostos
 
 [Álbum Facebook ABC Makerspace com 34 fotos](https://www.facebook.com/media/set/?set=a.1737808436486502&type=3).
