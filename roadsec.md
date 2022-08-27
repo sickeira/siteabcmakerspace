@@ -1,7 +1,7 @@
 Já participamos de algumas edições da [RoadSec](https://www.roadsec.com.br/) São Paulo, desde 2016 estivemos presente em todas.
 ________________________________________
 # RoadSec São Paulo 2016
-A [RoadSec](https://www.roadsec.com.br/) São Paulo em 18 de novembro de 2016 na [Audio](https://audiosp.com.br/), foi a primeira participação do [ABC Makerspace](https://abcmakerspace.com.br/) na área de comunidades. 
+A [RoadSec](https://www.roadsec.com.br/) São Paulo aconteceu em 18 de novembro de 2016 na [Audio](https://audiosp.com.br/), foi a primeira participação do [ABC Makerspace](https://abcmakerspace.com.br/) na área de comunidades. 
 
 Como atividade o Lint realizou a
 Oficina de OpenVPN, 
