@@ -1,3 +1,6 @@
+[Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
+________________________________________
+
 Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html), sempre na área de 
 
 ________________________________________
@@ -16,7 +19,7 @@ Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
 [Álbuns de Fotos do #TheDevConf 2015 São Paulo](https://thedevconf.com/tdc/2015/saopaulo/fotos).
 ________________________________________
 
-## #TheDevConf 2016 - The Developer's Conference São Paulo
+# #TheDevConf 2016 - The Developer's Conference São Paulo
 
 Fotos do dia 07/07/2016 no The Developer's Conference
 
@@ -29,3 +32,14 @@ ________________________________________
 
 
 Precisa confirmar se fomos em 2017 [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas)
+________________________________________
+Nos acompanhe pelas redes sociais para saaber mais.
+________________________________________
+[Facebook](https://www.facebook.com/abcmakerspace)  |
+[Twitter](https://twitter.com/abcmakerspace)  |
+[Instagram](https://www.instagram.com/abcmakerspace/)  |
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ)  |
+[GitHub](https://github.com/ABCMakerspace)  |
+
+
+
