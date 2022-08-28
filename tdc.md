@@ -1,0 +1,31 @@
+Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html), sempre na área de 
+
+________________________________________
+# #TheDevConf 2015 - The Developer's Conference São Paulo
+De 21 a 25/07/15 tivemos uma mesa para expor o [ABC Makerspace](https://abcmakerspace.com.br/) no [The Developer's Conference 2015](https://thedevconf.com/tdc/2015/saopaulo/trilhas), na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
+Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
+
+[Foto 1 -21/07 Terça- Placas](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940859625974416/) //[Foto 2 -21/07 Terça - Mesa](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940846755975703/)
+
+[Foto 3 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940878949305817/)//[Foto 4 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940879055972473/).
+
+[Foto 5 -24/07 Sexta](https://www.facebook.com/TheDevelopersConference/photos/a.941481852578860/941499745910404/)
+
+[Foto 6 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941547975905581/)//[Foto 7 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941548929238819/)//[Foto 8 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941548932572152/).
+
+[Álbuns de Fotos do #TheDevConf 2015 São Paulo](https://thedevconf.com/tdc/2015/saopaulo/fotos).
+________________________________________
+
+## #TheDevConf 2016 - The Developer's Conference São Paulo
+
+Fotos do dia 07/07/2016 no The Developer's Conference
+
+[Álbum Facebook ABC Makerspace com 11 fotos](https://www.facebook.com/media/set/?set=a.1733085350292144&type=3).
+
+The Developer's Conference na sexta 08/07/2016
+
+[Álbum Facebook ABC Makerspace com 50 fotos](https://www.facebook.com/media/set/?set=a.1733113436956002&type=3).
+________________________________________
+
+
+Precisa confirmar se fomos em 2017 [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas)
