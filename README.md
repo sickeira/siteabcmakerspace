@@ -6,14 +6,13 @@ Aqui estão as páginas com os históricos dos encontros/eventos que o ABC Maker
 A principio a estrutura será essa
 
 ```
-Home (index.md)
-| encontros
-|   |       | terarduino.md
-|   |       | quitemp.md
-|   |       | codenight.md 
-|   |
-|   |___ esporadicos.md
-|
+Home (.md)
+| encontros.md
+|   |      |___ esporadicos.md
+|   |__ terarduino.md
+|   |__ quitemp.md
+|   |__ codenight.md 
+|   
 | eventos.md
 |   |
 |   |__ arduinoday.md 
