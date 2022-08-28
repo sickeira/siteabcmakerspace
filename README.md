@@ -15,7 +15,7 @@ Home (index.md)
 |   |___ esporadicos.md
 |
 | eventos.md
-|   |__ Outros Eventos - eVENTOS QUE FOMOS APENAS 1 VEZ
+|   |
 |   |__ Arduino Day - 2015/2017/2018
 |   |__ Campus Party (campus.md)- 2015/2018/2022
 |   |__ RoadSec (roadsec.md)- 2016/2017/2018/2019/2022
