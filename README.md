@@ -8,18 +8,18 @@ A principio a estrutura será essa
 ```
 Home (index.md)
 | encontros
-|   |       | terarduino.md (fixos)
-|   |       | quitemp.md (fixos)
-|   |       | codenight.md (fixos)
+|   |       | terarduino.md
+|   |       | quitemp.md
+|   |       | codenight.md 
 |   |
 |   |___ esporadicos.md
 |
 | eventos.md
 |   |
-|   |__ Arduino Day - 2015/2017/2018
-|   |__ Campus Party (campus.md)- 2015/2018/2022
-|   |__ RoadSec (roadsec.md)- 2016/2017/2018/2019/2022
-|   |__ TDC (tdc.md)- 2015/2016 e 2017?
+|   |__ arduinoday.md 
+|   |__ campus.md
+|   |__ roadsec.md
+|   |__ tdc.md
 |   |__ ??? Intel IoT RoadShow2 em 2015??????
 |
 | historia.md
