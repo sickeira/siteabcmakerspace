@@ -60,7 +60,7 @@ Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) pa
 ________________________________________
 
 Nos acompanhe pelas redes sociais para saaber mais.
-________________________________________
+
 [Facebook](https://www.facebook.com/abcmakerspace)  |
 [Twitter](https://twitter.com/abcmakerspace)  |
 [Instagram](https://www.instagram.com/abcmakerspace/)  |
