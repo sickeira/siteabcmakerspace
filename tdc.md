@@ -1,7 +1,7 @@
 [Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
 ________________________________________
 
-Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html), sempre na área de 
+Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html), sempre com uma mesa para divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) na área de 
 
 ________________________________________
 # #TheDevConf 2015 - The Developer's Conference São Paulo
