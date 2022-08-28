@@ -5,8 +5,13 @@ ________________________________________
 
 Alguns dos eventos externos únicos ou que participamos apenas uma vez e lembramos de registrar.
 Outros eventos que participamos algumas vezes foram:
+
+[Arduino Day](arduinoday.md)
+
 [Campus Party São Paulo](campus.md)
+
 [RoadSec São Paulo](roadsec.md)
+
 [TDC - The Developer's Conference](tdc.md)
 
 
@@ -17,14 +22,8 @@ Em 20 de dezembro de 2014 ocorreu o primeiro [Garoa Kumite](https://garoa.net.br
 [Álbum Facebook ABC Makerspace com 11 fotos](https://www.facebook.com/media/set/?set=a.1611848649082482&type=3).
 ________________________________________
 
-
 # 2015
 
-## Arduino Day Santo André 2015
-Em 28/03/15 ocorreu a palestra sobre o shield PSG (Programable Sound Generator) no Arduino Day Santo André 2015, na [UFABC - Universidade Federal do ABC](https://www.ufabc.edu.br/), com [ABC Makerspace](https://abcmakerspace.com.br/) e IEEE RAS UFABC.
-
-[Retrospectiva 2015 - OldFatNerd](https://oldfatnerd.blogspot.com/2016/02/minha-restrospectiva-2015.html)
-________________________________________
 ## Intel IoT RoadShow 2015
 Nos dias 19 e 20 de junho de 2015 foi realizado no [Insper](https://www.insper.edu.br/) o Intel IoT RoadShow 2015-SP
 
@@ -33,20 +32,6 @@ Nos dias 19 e 20 de junho de 2015 foi realizado no [Insper](https://www.insper.e
 [Intel IoT Roadshow 2015 – Cobertura do Embarcados](https://embarcados.com.br/cobertura-intel-iot-roadshow-2015/)
 
 [Álbum Facebook ABC Makerspace com 9 fotos](https://www.facebook.com/media/set/?set=a.1534526553481359&type=3).
-________________________________________
-## #TheDevConf 2015
-De 21 a 25/07/15 tivemos uma mesa para expor o [ABC Makerspace](https://abcmakerspace.com.br/) no [The Developer's Conference 2015](https://thedevconf.com/tdc/2015/saopaulo/trilhas), na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
-Apesar da grafia errada na placa (trocaram Makerspace por Hackerspace)
-
-[Foto 1 -21/07 Terça- Placas](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940859625974416/) //[Foto 2 -21/07 Terça - Mesa](https://www.facebook.com/TheDevelopersConference/photos/a.940790812647964/940846755975703/)
-
-[Foto 3 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940878949305817/)//[Foto 4 -22/07 Quarta](https://www.facebook.com/TheDevelopersConference/photos/a.940868489306863/940879055972473/).
-
-[Foto 5 -24/07 Sexta](https://www.facebook.com/TheDevelopersConference/photos/a.941481852578860/941499745910404/)
-
-[Foto 6 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941547975905581/)//[Foto 7 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941548929238819/)//[Foto 8 -25/07 Sábado](https://www.facebook.com/TheDevelopersConference/photos/a.941529149240797/941548932572152/).
-
-[Álbuns de Fotos do #TheDevConf 2015 São Paulo](https://thedevconf.com/tdc/2015/saopaulo/fotos).
 ________________________________________
 ## Jornada das Engenharias UNIFRAN
 Em 11/09/2015 Palestra na Jornada das Engenharias,evento da [UNIFRAN - Universidade de Franca](https://www.unifran.edu.br/).
@@ -71,23 +56,9 @@ Visita ao Robocore Winter Challenge em 10 de julho de 2016, evento organizado pe
 
 [Álbum Facebook ABC Makerspace com 5 fotos](https://www.facebook.com/media/set/?set=a.1746059065661439&type=3).
 ________________________________________
-## #TheDevConf 2016 - The Developers Conference
-
-Fotos do dia 07/07/2016 no The Developer's Conference
-
-[Álbum Facebook ABC Makerspace com 11 fotos](https://www.facebook.com/media/set/?set=a.1733085350292144&type=3).
-
-The Developer's Conference na sexta 08/07/2016
-
-[Álbum Facebook ABC Makerspace com 50 fotos](https://www.facebook.com/media/set/?set=a.1733113436956002&type=3).
-________________________________________
 
 # 2017
-## Arduino Day CCSP 2017
-Algumas fotos da visita no Arduino Day São Paulo 2017 realizado no [Centro Cultural São Paulo](http://centrocultural.sp.gov.br/) em 01/04/17.
 
-[álbum facebook Siqueira com 10 fotos](https://www.facebook.com/media/set/?set=a.1365457086866888&type=3).
-________________________________________
 ## LHC - Visita e Churrasco
 
 Na quinta 29 de junho de 2017 o [ABC Makerspace](https://abcmakerspace.com.br/) e o GERSE foram convidados para um churrasco no [Laboratório Hacker de Campinas - LHC](https://lhc.net.br).
@@ -114,7 +85,6 @@ Inauguração do WikiLab em 10 de novembro de 2017, e como ninguém é de ferro,
 [álbum facebook Siqueira com 27 fotos](https://www.facebook.com/media/set/?set=a.1592726694139925&type=3)
 ________________________________________
 
-
 # 2018
 
 ## FLISoL Santo André 2018
@@ -123,16 +93,6 @@ A [Flisol Santo André 2018](https://flisol.info/FLISOL2018/Brasil/SantoAndre) f
 
 [Álbum Facebook com 78 fotos.](https://www.facebook.com/media/set/?set=a.2035324956734847&type=3)
 ________________________________________
-
-## Arduino Day SP 2018
-
-No sábado, dia 12 de maio de 2018, aconteceu o Arduino Day de São Paulo, na Praça das Artes, e o [ABC Makerspace](https://abcmakerspace.com.br/) esteve presente, junto com o pessoal do GERSE.
-
-[Álbum Facebook com 17 fotos](https://www.facebook.com/media/set/?set=a.2040208966246446&type=3).
-________________________________________
-
-# 2019
-
 
 # 2022
 
