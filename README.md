@@ -19,7 +19,6 @@ Home (.md)
 |   |__ campus.md
 |   |__ roadsec.md
 |   |__ tdc.md
-|   |__ ??? Intel IoT RoadShow2 em 2015??????
 |
 | historia.md
 ```
