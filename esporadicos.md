@@ -50,6 +50,7 @@ ________________________________________
 SEXTA software LIVRE em 19/08/2016
 
 [Evento facebook SEXTA Software LIVRE 19/08/2016](https://www.facebook.com/events/1066351446753346/)
+
 [Álbum Facebook com 5 fotos](https://www.facebook.com/media/set/?set=a.1750952155172130&type=3).
 ________________________________________
 
