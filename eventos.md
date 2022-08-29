@@ -12,7 +12,7 @@ Outros eventos que participamos algumas vezes foram:
 
 [RoadSec São Paulo](roadsec.md)
 
-[TDC - The Developer's Conference](tdc.md)
+[TDC - The Developer's Conference São Paulo](tdc.md)
 
 
 # 2014
