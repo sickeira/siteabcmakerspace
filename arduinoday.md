@@ -27,7 +27,7 @@ ________________________________________
 # Arduino Day Mauá 2019
 Visita em 30/03/2019 na [ETEC de Mauá](http://www.etecdemaua.com.br/) onde foi realizado o 2º Arduino Day Mauá.
 
-[Facebook Arduino Da Mauá](https://www.facebook.com/arduinodaymaua/)
+[Facebook Arduino Day Mauá](https://www.facebook.com/arduinodaymaua/)
 
 [Instagram Arduino Day Mauá](https://www.instagram.com/arduinodaymaua/)
 
