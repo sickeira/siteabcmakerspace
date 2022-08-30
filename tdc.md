@@ -1,7 +1,7 @@
 [Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
 ________________________________________
-
-Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html), sempre com uma mesa para divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) na área de 
+O TDC é uma Plataforma de Inovação Aberta focada no desenvolvimento do ecossistema de tecnologia brasileiro através de eventos híbridos e online.
+Participamos de algumas edições da [The Developer's Conference](https://thedevconf.com/tdc/2022/index.html) em São Paulo, sempre com uma mesa para divulgar o [ABC Makerspace](https://abcmakerspace.com.br/) na área de 
 
 ________________________________________
 # #TheDevConf 2015 - The Developer's Conference São Paulo
