@@ -1,6 +1,9 @@
 [Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
 ________________________________________
+A [Campus Party Brasil](https://brasil.campus-party.org/) é a maior experiência tecnológica do mundo que acontece em torno de um festival de inovação, criatividade, ciências e empreendedorismo.
 
+A primeira edição realizada em São Paulo foi entre 11 e 17 de fevereiro de 2008, a #CPBR1.
+________________________________________
 # Campus Party 2015 - #cpbr8
 [Campus Party](https://brasil.campus-party.org/) de São Paulo
 [ABC Makerspace](https://abcmakerspace.com.br/) na CPBr8, no [Dumont Hackerspace](https://www.facebook.com/DumontHackerspace/), 3 a 8 de fevereiro de 2015.
