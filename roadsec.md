@@ -1,6 +1,6 @@
 [Home](index.md) | [Encontros](encontros.md) | [Eventos](eventos.md) | [História](historia.md)
 ________________________________________
-
+É auto denomindo como o maior evento hacker da América Latina.
 Já participamos de algumas edições da [RoadSec](https://www.roadsec.com.br/) São Paulo, desde 2016 estivemos presente em todas.
 ________________________________________
 # RoadSec São Paulo 2016
@@ -59,7 +59,7 @@ Primeiro evento externo que o [ABC Makerspace](https://abcmakerspace.com.br/) pa
 [RoadSec 2022 #roadsec - Trankeiras do Sickeira](https://sickeira.blogspot.com/2022/07/roadsec-2022-roadsec.html)
 ________________________________________
 
-Nos acompanhe pelas redes sociais para saaber mais.
+Nos acompanhe pelas redes sociais para saber mais.
 
 [Facebook](https://www.facebook.com/abcmakerspace)  |
 [Twitter](https://twitter.com/abcmakerspace)  |
