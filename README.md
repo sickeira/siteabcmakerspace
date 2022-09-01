@@ -6,21 +6,22 @@ Aqui estão as páginas com os históricos dos encontros/eventos que o ABC Maker
 A principio a estrutura será essa
 
 ```
-Home (.md)
-| encontros.md
-|   |      |___ esporadicos.md
-|   |__ terarduino.md
-|   |__ quitemp.md
-|   |__ codenight.md 
-|   
-| eventos.md
-|   |
-|   |__ arduinoday.md 
-|   |__ campus.md
-|   |__ roadsec.md
-|   |__ tdc.md
+[Home](index.md)
 |
-| historia.md
+| [Encontros](encontros.md)
+|   |      |___ esporadicos.md
+|   |__ [Terça do Arduino](terarduino.md)
+|   |__ [Quinta da Tempestade Cerebral](quitemp.md)
+|   |__ [CodeNight WikiLab](codenight.md) 
+|   
+| [Eventos](eventos.md)
+|   |
+|   |__ [Arduino Day](arduinoday.md) 
+|   |__ [Campus Party São Paulo](campus.md)
+|   |__ [RoadSec São Paulo](roadsec.md)
+|   |__ [The Developer's Conference São Paulo](tdc.md)
+|
+| [História](historia.md)
 |
 *******área restrita***************************
 |    
