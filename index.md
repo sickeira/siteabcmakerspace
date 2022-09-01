@@ -27,11 +27,14 @@ ___________________________________
 ## [CodeNight WikiLab](codenight.md)
 Histórico dos encontros CodeNight WikiLab.
 ___________________________________
-## []()
+## [Quinta da Tempestade Cerebral](quitemp.md)
+Histórico dos encontros da Quinta da Tempestade Cerebral.
 ___________________________________
-## []()
+## [Terça do Arduino](terarduino.md)
+Histórico dos encontros da Terça do Arduino.
 ___________________________________
-## []()
+## [Encontros Esporádicos](esporadicos.md)
+Histórico de esquentas, temáticos, férias, online
 ___________________________________
 ## [História do ABC Makerspace](historia.md)
 A história desde a ideia, a realização, atividades e frequentadores, o [WikiLab](https://www.facebook.com/wikilab.abc). 
