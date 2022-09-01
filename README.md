@@ -21,5 +21,17 @@ Home (.md)
 |   |__ tdc.md
 |
 | historia.md
-```
+|
+*******área restrita***************************
+|    
+| wikilabdevices.md
+|   |
+|   |__ arristg862.md
+|   |__ ciscobefcny10.md
+|   |__ ciscowrt54gl.md
+|   |__ dcr2331.md
+|   |__ pacev5471.md
+|   |__ technicolortc7110.md
+|
 
+```
