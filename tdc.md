@@ -29,10 +29,13 @@ The Developer's Conference na sexta 08/07/2016
 
 [Álbum Facebook ABC Makerspace com 50 fotos](https://www.facebook.com/media/set/?set=a.1733113436956002&type=3).
 ________________________________________
+# #TheDevConf 2017 - The Developer's Conference São Paulo
 
+Aproveitamos o espaço no [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas) para divulgar o ABC Makerspace e o [WikiLab]()
 
-Precisa confirmar se fomos em 2017 [TDC 2017](https://thedevconf.com/tdc/2017/saopaulo/trilhas)
+[Foto 1](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579405776070/?type=3)//[Foto 2](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911579199109424/?type=3)//[Foto 3](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911577559109588/?type=3)//[Foto 4](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911575209109823/?type=3)//[Foto 5](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572675776743/?type=3)//[Foto 6](https://www.facebook.com/abcmakerspace/photos/pb.100063769111466.-2207520000../1911572559110088/?type=3)
 ________________________________________
+
 Nos acompanhe pelas redes sociais para saaber mais.
 ________________________________________
 [Facebook](https://www.facebook.com/abcmakerspace)  |
