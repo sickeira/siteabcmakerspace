@@ -41,7 +41,9 @@ da universidade [Lablivre](https://lablivre.pesquisa.ufabc.edu.br/wikilab/) (foc
 A partir do início de 2018 o espaço [Wikilab](https://www.facebook.com/wikilab.abc/) começou a sediar as atividades de ambos 
 os grupos, [ABC Makerspace](https://abcmakerspace.com.br/) e [Lablivre](https://lablivre.pesquisa.ufabc.edu.br/wikilab/).
 
-## Pandemia
+Também surgiram os encontros do [CodeNight WikiLab](codenight.md).
+
+# Pandemia
 Assim como todo o mundo deixamos de nos reunir presencialmente e fizemos alguns encontros online, com o uso de diversas ferramentas, acabamos adotando o [Jitsi](https://jitsi.org/) na maior parte do tempo.
 
 [site antigo](http://abcmakerspace.github.io/)
