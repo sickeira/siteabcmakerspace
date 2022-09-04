@@ -8,20 +8,21 @@ A principio a estrutura será essa
 ```
 [Home](index.md)
 |
-| [Encontros](encontros.md)
-|   |      |___ esporadicos.md
-|   |__ [Terça do Arduino](terarduino.md)
-|   |__ [Quinta da Tempestade Cerebral](quitemp.md)
-|   |__ [CodeNight WikiLab](codenight.md) 
 |   
-| [Eventos](eventos.md)
+| [Eventos](eventos.md) 07
 |   |
-|   |__ [Arduino Day](arduinoday.md) 
-|   |__ [Campus Party São Paulo](campus.md)
-|   |__ [RoadSec São Paulo](roadsec.md)
-|   |__ [The Developer's Conference São Paulo](tdc.md)
+|   |__ [Arduino Day](arduinoday.md) 08
+|   |__ [Campus Party São Paulo](campus.md) 11
+|   |__ [RoadSec São Paulo](roadsec.md) 10
+|   |__ [The Developer's Conference São Paulo](tdc.md) 09
+| 
+| [Encontros](encontros.md) 02
+|   |      |___ esporadicos.md 03
+|   |__ [Terça do Arduino](terarduino.md) 04
+|   |__ [Quinta da Tempestade Cerebral](quitemp.md) 05
+|   |__ [CodeNight WikiLab](codenight.md) 06
 |
-| [História](historia.md)
+| [História](historia.md) 01
 |
 *******área restrita***************************
 |    
